@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Vikash PR</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Debasish Ray</p>
 
 
 <p align="center"> 
@@ -32,7 +32,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 ### aboutMe.Js:
 
 ```javascript
-const VikashPR = {
+const Debasish Ray = {
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
    askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
@@ -97,15 +97,15 @@ const VikashPR = {
 
 ### Github Stats:
 
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=debasish-ray16&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasish-ray16&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=VikashPR&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=debasish-ray16&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=debasish-ray16&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 ### Github contributions:
 
 <!-- <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
+<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=debasish-ray16&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
 -->
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
