@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: vikashpr
+          user: debasish-ray16
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
